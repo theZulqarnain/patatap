@@ -3,6 +3,6 @@
   "version": "4.3.0",
   "description": "A piano with animation",
   "scripts": {
-    "start": "static-server --port=5001"
+    "start": "static-server --port=5002"
   }
 }
