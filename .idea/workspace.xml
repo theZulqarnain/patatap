@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6bb1404-5167-4829-81e9-15124f3165b0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/start.sh" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/start.sh" afterPath="$PROJECT_DIR$/start.sh" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,8 +47,8 @@
       <file leaf-file-name="start.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/start.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="0">
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -178,7 +178,7 @@
       <workItem from="1509771279893" duration="1310000" />
       <workItem from="1512890795242" duration="755000" />
       <workItem from="1513238714303" duration="614000" />
-      <workItem from="1513582332781" duration="2673000" />
+      <workItem from="1513582332781" duration="3229000" />
     </task>
     <task id="LOCAL-00001" summary="uploading files in github">
       <created>1513239045890</created>
@@ -201,11 +201,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513584513021</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="start.sh file added">
+      <created>1513587632735</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1513587632735</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27454000" />
+    <option name="totallyTimeSpent" value="28010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1920" height="1054" extended-state="6" />
@@ -261,7 +268,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uploading files in github" />
     <MESSAGE value="package.json file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="package.json file added" />
+    <MESSAGE value="start.sh file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="start.sh file added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -382,8 +390,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/start.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
           <folding />
         </state>
       </provider>

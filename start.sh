@@ -1,5 +1,5 @@
 #!/bin/sh
-pm2 stop npm
-pm2 delete npm
+pm2 stop patatap
+pm2 delete patatap
 cd ~/patatap
-pm2 start --name "npm" npm -- start
+pm2 start --name "patatap" npm -- start
